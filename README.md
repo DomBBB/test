@@ -11,6 +11,8 @@ ARTify Studio is a desktop application where users can upload images and apply v
 - 💾 Save edited images to a gallery and export them in various formats.
 
 
+---
+
 ## 💻 Installation
 
 ### 0. Prerequisite
@@ -61,6 +63,8 @@ Navigate to the project folder and execute:
 
     python main.py
 
+
+---
 
 ## 🌐 Resources
 
