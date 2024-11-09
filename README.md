@@ -28,7 +28,7 @@ Download or clone this repository.
 
 ### 2. Set up a Virtual Environment and install required libraries
 
-Open Command Prompt and navigate to the project folder
+Open command prompt and navigate to the project folder
     
 Create a virtual environment in the project folder <img align="right" src="assets/install_1.jpg" height="20">
 
@@ -44,7 +44,7 @@ Within the virtual environment install required libraries <img align="right" src
 
 ### 3. Launch ARTify Studio
 
-If necessary open Command Prompt, navigate to the project folder and activate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
+If necessary, reactivate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
 
     venv\Scripts\activate
 
