@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="assets/logo.png" height="256">
-</p>
+<p align="center"> <img src="assets/logo.png" height="256"> </p> <h1 align="center">ARTify Studio</h1>
 
-
-# ARTify
+# ARTify Studio
 
 📃
 - 🖥️ UI 
@@ -63,6 +60,117 @@ Keep up with the latest updates by visiting the releases page and notes:
     <img style="width: 260px; height: 56px" src="https://runacap.com/wp-content/uploads/2024/04/ROSS_badge_white_Q1_2024.svg" alt="ROSS Index - Fastest Growing Open-Source Startups in Q1 2024 | Runa Capital" width="260" height="56"/>
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+The Art Studio App is an interactive platform where users can upload images, apply various artistic styles, adjust filters, and export their edited images. The app supports multiple image transformation styles (e.g., Monet, Van Gogh) and customization options such as tint, texture, and frames. This guide will walk you through the installation, setup, and use of the app.
+Features
+
+    Image Styling: Choose from styles like Monet, Van Gogh, Cezanne, and Ukiyo-e.
+    Adjustments and Filters: Control exposure, brightness, contrast, sharpness, and more.
+    Save and Export: Save edited images to a gallery or export them in various formats.
+    Intuitive UI: Easy-to-navigate layout with sliders, dropdowns, and checkboxes.
+
+Installation
+1. Prerequisites
+
+Ensure you have Python 3.7 or later installed on your system. You can download Python from python.org.
+2. Clone the Repository
+
+git clone https://github.com/yourusername/art-studio-app.git
+cd art-studio-app
+
+3. Setting Up a Virtual Environment
+
+To avoid conflicts, set up a virtual environment in your project directory.
+macOS
+
+    Open Terminal.
+    Navigate to your project folder and create a virtual environment:
+
+python3 -m venv venv
+
+Activate the virtual environment:
+
+    source venv/bin/activate
+
+Windows
+
+    Open Command Prompt.
+    Navigate to your project folder and create a virtual environment:
+
+python -m venv venv
+
+Activate the virtual environment:
+
+    venv\Scripts\activate
+
+4. Install Required Libraries
+
+Once the virtual environment is activated, install the dependencies from the requirements.txt file.
+
+pip install -r requirements.txt
+
+Running the App
+
+To launch the Art Studio App, follow these steps:
+
+    Navigate to the project folder if not already there:
+
+cd art-studio-app
+
+Run the main application file:
+
+    python main.py
+
+Using the App
+
+After starting the app, you’ll see the main navigation page with options to upload images, view a gallery, and edit images.
+1. Uploading an Image
+
+    Go to the Upload page.
+    Select an image from your computer or choose a sample image from the app's library.
+
+2. Workspace
+
+    The Workspace page shows each image with dropdowns to select different styles.
+    Select a style to preview it, and click Edit to start customizing the image.
+
+3. Editor
+
+    In the Editor, you can:
+        Choose a style from the dropdown.
+        Adjust properties like Brightness, Contrast, and Sharpness using sliders.
+        Apply filters like Sepia, Grayscale, or Colorize.
+        Add frames or textures to enhance the image further.
+
+<p align="center"> <img src="path/to/editor_screenshot.png" width="600"> </p>
+4. Saving and Exporting
+
+    Save the edited image to the gallery using the Save to Gallery button.
+    Export the image in a preferred format (JPEG, PNG, BMP) using the Export button.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
