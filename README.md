@@ -18,47 +18,39 @@ Ensure you have **Python 3.8.5** or later installed on your system (*program tes
 
 1. Download the Program
 
-Download or clone the repository and navigate to the location.
+Download or clone this repository.
 
-2. Set up a Virtual Environment
-
-macOS
-
-    Open Terminal.
-    Navigate to your project folder and create a virtual environment:
-
-python3 -m venv venv
-
-Activate the virtual environment:
-
-    source venv/bin/activate
+2. Set up a Virtual Environment and install required libraries
 
 Windows
 
-    Open Command Prompt.
-    Navigate to your project folder and create a virtual environment:
+    Open Command Prompt and navigate to the project folder
+    
+    Create a virtual environment:
+        python -m venv venv
 
-python -m venv venv
+    Activate the virtual environment:
+        venv\Scripts\activate
 
-Activate the virtual environment:
+    Navigate to the requirements.txt file and execute:
+        pip install -r requirements.txt
 
-    venv\Scripts\activate
+macOS
 
-4. Install Required Libraries
+    Open Terminal and navigate to the project folder
+    
+    Create a virtual environment:
+        python3 -m venv venv
 
-Once the virtual environment is activated, install the dependencies from the requirements.txt file.
+    Activate the virtual environment:
+        source venv/bin/activate
 
-pip install -r requirements.txt
+    Navigate to the requirements.txt file and execute:
+        pip install -r requirements.txt
 
-Running the App
+3. Launch ARTify Studio
 
-To launch the Art Studio App, follow these steps:
-
-    Navigate to the project folder if not already there:
-
-cd art-studio-app
-
-Run the main application file:
+Navigate to the project folder and execute:
 
     python main.py
 
