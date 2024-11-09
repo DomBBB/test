@@ -27,26 +27,32 @@ Download or clone this repository.
 Open Command Prompt and navigate to the project folder
     
 Create a virtual environment:
+
     python -m venv venv
 
 Activate the virtual environment:
+
     venv\Scripts\activate
 
 Navigate to the requirements.txt file and execute:
+
     pip install -r requirements.txt
 
-macOS
+**macOS**
 
-    Open Terminal and navigate to the project folder
+Open Terminal and navigate to the project folder
     
-    Create a virtual environment:
-        python3 -m venv venv
+Create a virtual environment:
 
-    Activate the virtual environment:
-        source venv/bin/activate
+    python3 -m venv venv
 
-    Navigate to the requirements.txt file and execute:
-        pip install -r requirements.txt
+Activate the virtual environment:
+
+    source venv/bin/activate
+
+Navigate to the requirements.txt file and execute:
+
+    pip install -r requirements.txt
 
 3. Launch ARTify Studio
 
