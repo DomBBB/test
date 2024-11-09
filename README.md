@@ -1,6 +1,6 @@
 <p align="center"> <img src="assets/logo.png" height="256"> </p> <h1 align="center">ARTify Studio</h1>
 
-# ARTify Studio
+
 
 📃
 - 🖥️ UI 
