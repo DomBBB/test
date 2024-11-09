@@ -94,7 +94,9 @@ Navigate to the project folder and execute:
 
 ---
 
-## 📑 Using the App
+## 📑 TO DO
+
+Using the App
 
 After starting the app, you’ll see the main navigation page with buttons to upload images, edit images, and view a gallery.
 
@@ -121,15 +123,24 @@ Display all images and their stored edits. There are various options to view and
 Thanks to all contributors and the open-source community.
 
 ### Contributors
+
+This project has been created for the master's course **7,789: Skills: Programming with Advanced Computer Languages** taught by **Dr. Mario Silic** at the **University of St.Gallen** in the **Autumn Semester 2024**.
+
 - Katja Alison Zimmermann
 - Dominik Manuel Buchegger
 
 ### Powered by CycleGAN
+
+CycleGAN is a generative model architecture used for image style transfer without needing paired examples of the original and target styles during training. In our application, we leveraged a CycleGAN with four pretrained models to apply artistic styles to images. We also used some images from the CycleGAN dataset for the app's example images.
+
 - [Model architecture](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Pretrained models](https://efrosgans.eecs.berkeley.edu/cyclegan/pretrained_models/)
 - [Example images](https://efrosgans.eecs.berkeley.edu/cyclegan/datasets/)
 
 ### Creation supported by ChatGPT
+
+ChatGPT has been used througout the project, which enabled us to rapidly build an entire application around our image style transfer.
+
 - Logo created by DALL·E
 - Graphical user interface built with assistance from GPT-4o
 - Image filter and editing functions created by GPT-4o 
