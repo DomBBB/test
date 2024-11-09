@@ -1,3 +1,6 @@
+[![python](https://img.shields.io/badge/python-3.8.5-blue?logo=python&logoColor=FED643)](https://www.python.org)
+[![License: BSD 2-Clause](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)  
+
 <p align="center"> <img src="assets/logo.png" height="256"> </p>
 
 # ARTify Studio
