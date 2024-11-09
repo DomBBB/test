@@ -57,7 +57,9 @@ Within the virtual environment execute <img align="right" src="assets/run.png" h
 
 ---
 
-## 💻 Installation - macOS
+## 💻 TO DO
+
+Installation - macOS
 
 ### 0. Prerequisite
 
