@@ -22,18 +22,18 @@ Download or clone this repository.
 
 2. Set up a Virtual Environment and install required libraries
 
-Windows
+**Windows**
 
-    Open Command Prompt and navigate to the project folder
+Open Command Prompt and navigate to the project folder
     
-    Create a virtual environment:
-        python -m venv venv
+Create a virtual environment:
+    python -m venv venv
 
-    Activate the virtual environment:
-        venv\Scripts\activate
+Activate the virtual environment:
+    venv\Scripts\activate
 
-    Navigate to the requirements.txt file and execute:
-        pip install -r requirements.txt
+Navigate to the requirements.txt file and execute:
+    pip install -r requirements.txt
 
 macOS
 
