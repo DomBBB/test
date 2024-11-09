@@ -3,8 +3,9 @@
 </p>
 
 
-# 📃 Features
+# ARTify
 
+📃
 - 🖥️ UI 
 - 🤖 AI 
 - 🪄 Generative UI with **[Code Artifacts](https://youtu.be/GfTj7O4gmd0?si=WJbdnemZpJzBrJo3)**
