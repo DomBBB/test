@@ -30,15 +30,15 @@ Download or clone this repository.
 
 Open Command Prompt and navigate to the project folder
     
-<p>Create a virtual environment in the project folder <img src="assets/install_1.jpg" height="20"> </p>
+Create a virtual environment in the project folder <img align="right" src="assets/install_1.jpg" height="20">
 
     python -m venv venv
 
-<p>Activate the virtual environment <img src="assets/install_2.jpg" height="20"> </p>
+<p>Activate the virtual environment <img align="right" src="assets/install_2.jpg" height="20"> </p>
 
     venv\Scripts\activate
 
-<p>Install required libraries <img src="assets/install_3.jpg" height="20"> </p>
+<p>Install required libraries <img align="right" src="assets/install_3.jpg" height="20"> </p>
 
     pip install -r requirements.txt
 
