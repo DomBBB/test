@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="assets/logo.png" height="256"> </p>
 
-# <p> <img src="assets/logo.png"> ARTify Studio </p>
+# <p> <img src="assets/logo.png height="24""> ARTify Studio </p>
 
 ARTify Studio is a desktop application where users can upload images and apply various artistic styles to it. It supports customization options such as filters, image editing, and frames aswell as the export of the edited images. This guide will walk you through the setup and use of the app.
 
