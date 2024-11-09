@@ -5,13 +5,13 @@
 
 # <p> <img src="assets/logo.png" height="30"> ARTify Studio </p>
 
-ARTify Studio is a desktop application where users can upload images and apply various artistic styles to it. It supports customization options such as filters, image editing, and frames aswell as the export of the edited images. This guide will walk you through the setup and use of the app.
+ARTify Studio is a desktop application where users can upload images and apply various artistic styles to it. It supports customization options such as filters, image editing, and frames, aswell as exporting the final images. This guide will walk you through the setup and use of the app.
 
 - 🎴 Images reimagined in styles of Monet, Van Gogh, Cezanne, and Ukiyo-e.
-- 🤖 Generative UI to apply selected styles to your images.
-- 🎨 Filters and adjustments to add your own customizations.
+- 🤖 Deep Learning powered Generative AI to apply styles to your images.
+- 🎨 Own customizations through filters, editing and further adjustments.
 - 🖥️ Intuitive UI with easy-to-navigate sliders, dropdowns, and checkboxes.
-- 💾 Save edited images to a gallery and export them in various formats.
+- 💾 Save edited images to your gallery and export them in various formats.
 
 
 ---
