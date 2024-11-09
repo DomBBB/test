@@ -44,6 +44,8 @@ Within the virtual environment install required libraries <img align="right" src
 
 ### 3. Launch ARTify Studio
 
+If necessary, open command prompt and navigate to the project folder
+
 If necessary, reactivate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
 
     venv\Scripts\activate
