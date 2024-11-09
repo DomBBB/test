@@ -34,17 +34,21 @@ Create a virtual environment in the project folder <img align="right" src="asset
 
     python -m venv venv
 
-<p>Activate the virtual environment <img align="right" src="assets/install_2.jpg" height="20"> </p>
+Activate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
 
     venv\Scripts\activate
 
-<p>Install required libraries <img align="right" src="assets/install_3.jpg" height="20"> </p>
+Within the virtual environment install required libraries <img align="right" src="assets/install_3.jpg" height="20">
 
     pip install -r requirements.txt
 
 ### 3. Launch ARTify Studio
 
-Navigate to the project folder and execute:
+If necessary open Command Prompt, navigate to the project folder and activate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
+
+    venv\Scripts\activate
+
+Within the virtual environment execute <img align="right" src="assets/run.png" height="20">
 
     python main.py
 
