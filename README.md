@@ -83,15 +83,11 @@ Navigate to the project folder and execute:
 
 ---
 
-## 🌐 Resources
+## 📑 Using the App
 
+After starting the app, you’ll see the main navigation page with buttons to upload images, edit images, and view a gallery.
 
-
-
-Using the App
-
-After starting the app, you’ll see the main navigation page with options to upload images, view a gallery, and edit images.
-1. Uploading an Image
+1. Upload Image
 
     Go to the Upload page.
     Select an image from your computer or choose a sample image from the app's library.
@@ -101,7 +97,7 @@ After starting the app, you’ll see the main navigation page with options to up
     The Workspace page shows each image with dropdowns to select different styles.
     Select a style to preview it, and click Edit to start customizing the image.
 
-3. Editor
+3. Gallery
 
     In the Editor, you can:
         Choose a style from the dropdown.
@@ -109,8 +105,7 @@ After starting the app, you’ll see the main navigation page with options to up
         Apply filters like Sepia, Grayscale, or Colorize.
         Add frames or textures to enhance the image further.
 
-<p align="center"> <img src="path/to/editor_screenshot.png" width="600"> </p>
-4. Saving and Exporting
+![grafik](https://github.com/user-attachments/assets/193ae1d3-7303-4ad0-b2b9-6ac955e4a22c)
 
     Save the edited image to the gallery using the Save to Gallery button.
     Export the image in a preferred format (JPEG, PNG, BMP) using the Export button.
