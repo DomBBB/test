@@ -129,7 +129,7 @@ Thanks to all contributors and the open-source community.
 - [Pretrained models](https://efrosgans.eecs.berkeley.edu/cyclegan/pretrained_models/)
 - [Example images](https://efrosgans.eecs.berkeley.edu/cyclegan/datasets/)
 
-### Supported by ChatGPT
+### Creation supported by ChatGPT
 - Logo created by DALL·E
 - Graphical user interface built with assistance from GPT-4o
 - Image filters and editing created by GPT-4o 
