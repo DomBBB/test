@@ -66,16 +66,20 @@ Keep up with the latest updates by visiting the releases page and notes:
 
 ---
 
-## ✨ Contributions
+## 💖 Acknowledgments
 
-Contributions, suggestions, bug reports and fixes are welcome!
+Thanks to all contributors and the open-source community.
 
-For new features, components, or extensions, please open an issue and discuss before sending a PR.
+### Contributors
+- Katja Alison Zimmermann
+- Dominik Manuel Buchegger
 
----
+### Powered by CycleGAN
+- [Model architecture](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [Pretrained models](https://efrosgans.eecs.berkeley.edu/cyclegan/pretrained_models/)
+- [Example images](https://efrosgans.eecs.berkeley.edu/cyclegan/datasets/)
 
-## 💖 This project exists in its current state thanks to all the people who contribute
-
-<a href="https://github.com/danny-avila/LibreChat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=danny-avila/LibreChat" />
-</a>
+### Supported by ChatGPT
+- Logo created by DALL·E
+- Graphical user interface built with assistance from GPT-4o
+- Image filters and editing created by GPT-4o 
