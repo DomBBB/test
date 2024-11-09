@@ -2,27 +2,67 @@
 
 # ARTify Studio
 
----
+ARTify Studio is a desktop application where users can upload images and apply various artistic styles to it. It supports customization options such as filters, image editing, and frames aswell as the export of the edited images. This guide will walk you through the setup and use of the app.
 
-X
+- 🎴 Images reimagined in styles of Monet, Van Gogh, Cezanne, and Ukiyo-e.
+- 🤖 Generative UI to apply selected styles to your images.
+- 🎨 Filters and adjustments to add your own customizations.
+- 🖥️ Intuitive UI with easy-to-navigate sliders, dropdowns, and checkboxes.
+- 💾 Save edited images to a gallery and export them in various formats.
 
-📃
-- 🖥️ UI 
-- 🤖 AI 
-- 🪄 Generative UI with **[Code Artifacts](https://youtu.be/GfTj7O4gmd0?si=WJbdnemZpJzBrJo3)**
-   - Create React, HTML code, and Mermaid diagrams right in chat
-- 💾 Create, Save, & Share Custom Presetsעברית
-- 🎨 Customizable Dropdown & Interface: Adapts to both power users and newcomers
+## 💻 Installation
 
+0. Prerequisite
 
-## 🪶 All-In-One AI Conversations with LibreChat
+- Ensure you have **Python 3.8.5** or later installed on your system (*program tested for 3.8.5*). You can download Python from python.org.
 
-LibreChat brings together the future of assistant AIs with the revolutionary technology of OpenAI's ChatGPT. Celebrating the original styling, LibreChat gives you the ability to integrate multiple AI models. It also integrates and enhances original client features such as conversation and message search, prompt templates and plugins.
+2. Clone the Repository
 
-With LibreChat, you no longer need to opt for ChatGPT Plus and can instead use free or pay-per-call APIs. We welcome contributions, cloning, and forking to enhance the capabilities of this advanced chatbot platform.
+git clone https://github.com/yourusername/art-studio-app.git
+cd art-studio-app
 
-[![Watch the video](https://raw.githubusercontent.com/LibreChat-AI/librechat.ai/main/public/images/changelog/v0.7.5.png)](https://www.youtube.com/watch?v=IDukQ7a2f3U)
-Click on the thumbnail to open the video☝️
+3. Setting Up a Virtual Environment
+
+To avoid conflicts, set up a virtual environment in your project directory.
+macOS
+
+    Open Terminal.
+    Navigate to your project folder and create a virtual environment:
+
+python3 -m venv venv
+
+Activate the virtual environment:
+
+    source venv/bin/activate
+
+Windows
+
+    Open Command Prompt.
+    Navigate to your project folder and create a virtual environment:
+
+python -m venv venv
+
+Activate the virtual environment:
+
+    venv\Scripts\activate
+
+4. Install Required Libraries
+
+Once the virtual environment is activated, install the dependencies from the requirements.txt file.
+
+pip install -r requirements.txt
+
+Running the App
+
+To launch the Art Studio App, follow these steps:
+
+    Navigate to the project folder if not already there:
+
+cd art-studio-app
+
+Run the main application file:
+
+    python main.py
 
 ---
 
@@ -75,67 +115,8 @@ Keep up with the latest updates by visiting the releases page and notes:
 
 
 
-Overview
 
-The Art Studio App is an interactive platform where users can upload images, apply various artistic styles, adjust filters, and export their edited images. The app supports multiple image transformation styles (e.g., Monet, Van Gogh) and customization options such as tint, texture, and frames. This guide will walk you through the installation, setup, and use of the app.
-Features
 
-    Image Styling: Choose from styles like Monet, Van Gogh, Cezanne, and Ukiyo-e.
-    Adjustments and Filters: Control exposure, brightness, contrast, sharpness, and more.
-    Save and Export: Save edited images to a gallery or export them in various formats.
-    Intuitive UI: Easy-to-navigate layout with sliders, dropdowns, and checkboxes.
-
-Installation
-1. Prerequisites
-
-Ensure you have Python 3.7 or later installed on your system. You can download Python from python.org.
-2. Clone the Repository
-
-git clone https://github.com/yourusername/art-studio-app.git
-cd art-studio-app
-
-3. Setting Up a Virtual Environment
-
-To avoid conflicts, set up a virtual environment in your project directory.
-macOS
-
-    Open Terminal.
-    Navigate to your project folder and create a virtual environment:
-
-python3 -m venv venv
-
-Activate the virtual environment:
-
-    source venv/bin/activate
-
-Windows
-
-    Open Command Prompt.
-    Navigate to your project folder and create a virtual environment:
-
-python -m venv venv
-
-Activate the virtual environment:
-
-    venv\Scripts\activate
-
-4. Install Required Libraries
-
-Once the virtual environment is activated, install the dependencies from the requirements.txt file.
-
-pip install -r requirements.txt
-
-Running the App
-
-To launch the Art Studio App, follow these steps:
-
-    Navigate to the project folder if not already there:
-
-cd art-studio-app
-
-Run the main application file:
-
-    python main.py
 
 Using the App
 
