@@ -1,4 +1,5 @@
-<p align="center"> <img src="assets/logo.png" height="256"> </p> <h0 align="center">ARTify Studio</h0>
+<p align="center"> <img src="assets/logo.png" height="256"> </p>
+# ARTify Studio
 
 ---
 
