@@ -132,4 +132,4 @@ Thanks to all contributors and the open-source community.
 ### Creation supported by ChatGPT
 - Logo created by DALL·E
 - Graphical user interface built with assistance from GPT-4o
-- Image filters and editing created by GPT-4o 
+- Image filter and editing functions created by GPT-4o 
