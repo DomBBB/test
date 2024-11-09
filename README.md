@@ -14,16 +14,14 @@ ARTify Studio is a desktop application where users can upload images and apply v
 
 0. Prerequisite
 
-- Ensure you have **Python 3.8.5** or later installed on your system (*program tested for 3.8.5*). You can download Python from python.org.
+Ensure you have **Python 3.8.5** or later installed on your system (*program tested for 3.8.5*). You can download Python from python.org.
 
-2. Clone the Repository
+1. Download the Program
 
-git clone https://github.com/yourusername/art-studio-app.git
-cd art-studio-app
+Download or clone the repository and navigate to the location.
 
-3. Setting Up a Virtual Environment
+2. Set up a Virtual Environment
 
-To avoid conflicts, set up a virtual environment in your project directory.
 macOS
 
     Open Terminal.
