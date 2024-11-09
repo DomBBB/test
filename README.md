@@ -13,7 +13,7 @@ ARTify Studio is a desktop application where users can upload images and apply v
 
 ---
 
-## 💻 Installation
+## 💻 Installation - Windows
 
 ### 0. Prerequisite
 
@@ -24,8 +24,6 @@ Ensure you have **Python 3.8.5** or later installed on your system (*program tes
 Download or clone this repository.
 
 ### 2. Set up a Virtual Environment and install required libraries
-
-**Windows**
 
 Open Command Prompt and navigate to the project folder
     
@@ -41,7 +39,26 @@ Navigate to the requirements.txt file and execute:
 
     pip install -r requirements.txt
 
-**macOS**
+### 3. Launch ARTify Studio
+
+Navigate to the project folder and execute:
+
+    python main.py
+
+
+---
+
+## 💻 Installation - macOS
+
+### 0. Prerequisite
+
+Ensure you have **Python 3.8.5** or later installed on your system (*program tested for 3.8.5*). You can download Python from python.org.
+
+### 1. Download the Program
+
+Download or clone this repository.
+
+### 2. Set up a Virtual Environment and install required libraries
 
 Open Terminal and navigate to the project folder
     
