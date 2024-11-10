@@ -30,15 +30,15 @@ Download or clone this repository.
 
 Open command prompt and navigate to the project folder
     
-Create a virtual environment in the project folder <img align="right" src="assets/install_1.jpg" height="20">
+Create a venv in the project folder <img align="right" src="assets/install_1.jpg" height="20">
 
     python -m venv venv
 
-Activate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
+Activate the venv <img align="right" src="assets/install_2.jpg" height="20">
 
     venv\Scripts\activate
 
-Within the virtual environment install required libraries <img align="right" src="assets/install_3.jpg" height="20">
+Within the venv, install required libraries <img align="right" src="assets/install_3.jpg" height="20">
 
     pip install -r requirements.txt
 
@@ -46,11 +46,11 @@ Within the virtual environment install required libraries <img align="right" src
 
 If necessary, open command prompt and navigate to the project folder
 
-If necessary, reactivate the virtual environment <img align="right" src="assets/install_2.jpg" height="20">
+If necessary, reactivate the venv <img align="right" src="assets/install_2.jpg" height="20">
 
     venv\Scripts\activate
 
-Within the virtual environment execute <img align="right" src="assets/run.png" height="20">
+Within the venv, execute <img align="right" src="assets/run.png" height="20">
 
     python main.py
 
