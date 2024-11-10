@@ -133,7 +133,7 @@ This project has been created for the master's course **7,789: Skills: Programmi
 
 CycleGAN is a generative model architecture used for image style transfer without needing paired examples of the original and target styles during training. In our application, we leveraged a CycleGAN with four pretrained models to apply artistic styles to images. We also used some images from the CycleGAN dataset for the app's example images.
 
-CycleGAN is licensed under [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) which is why this project has the same license.
+CycleGAN is licensed under [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause), which is why this project has the same license.
 
 - [Model architecture](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Pretrained models](https://efrosgans.eecs.berkeley.edu/cyclegan/pretrained_models/)
