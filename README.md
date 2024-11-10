@@ -124,7 +124,7 @@ Thanks to all contributors and the open-source community.
 
 ### Contributors
 
-This project has been created for the master's course **7,789: Skills: Programming with Advanced Computer Languages** taught by **Dr. Mario Silic** at the **University of St.Gallen** in the **Autumn Semester 2024**.
+This project has been created for the master's course **7,789: Skills: Programming with Advanced Computer Languages** taught by **Dr. Mario Silic** at the **University of St.Gallen (HSG)** in the **Autumn Semester 2024**.
 
 - Katja Alison Zimmermann
 - Dominik Manuel Buchegger
