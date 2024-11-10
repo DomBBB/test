@@ -1,0 +1,7 @@
+pyqt5
+torch
+numpy
+pillow
+torchvision
+dominate
+opencv-python
